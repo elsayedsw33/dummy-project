@@ -1,9 +1,4 @@
 hi my name is elsayed
 new line 
 new line 2
-<<<<<<< HEAD
-new line 
-=======
-new line 4
->>>>>>> test
-login feature
+line 3
